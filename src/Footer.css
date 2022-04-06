@@ -1,0 +1,23 @@
+
+.footer__info {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 8px 8px 2px rgb(171, 171, 186);
+ }
+
+.Footer__Line-message {
+    align-items: center;
+    display: flex;
+    font-size: 13px;
+    border-top: 2px solid rgb(171, 171, 186);
+  }
+
+  .Footer__Line-message > span {
+    text-decoration: none;
+    color: #ccc;
+    margin-left: 5px;
+  }
